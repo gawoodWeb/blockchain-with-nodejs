@@ -10,11 +10,16 @@ class USER {
     this.id = crypto.randomUUID();
     this.path_privateKey = "./privateKey.pem";
     this.path_publicKey = "./publicKey.pem";
-    this.create()
+    this.setUser()
     this.pool
   }
 
-  create(address){
+
+  create(){
+
+  }
+
+  setUser(){
     this.user = {
       name: this.name,
       id: this.id,
@@ -24,6 +29,8 @@ class USER {
       path_to_json : "./user.json"
     }
   }
+
+
 
   saveUser (){
 

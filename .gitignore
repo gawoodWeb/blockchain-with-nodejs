@@ -9,4 +9,17 @@
 *.key
 
 
+node_modules/
+.env*
+net/*/.pid
+net/*/log/
+net/*/*.log
+
+/log
+*.pid
+*.config
+
+/net
+
+
 

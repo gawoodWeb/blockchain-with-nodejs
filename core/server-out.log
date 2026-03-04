@@ -1,0 +1,555 @@
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: 'cd38e66d-c068-4102-bae7-93c50eec860d',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: 'cd38e66d-c068-4102-bae7-93c50eec860d',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '42148c40-eabc-4f3c-9d84-ffe90f392e60',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '42148c40-eabc-4f3c-9d84-ffe90f392e60',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '03ab26e2-257a-40b4-99b3-c1d371672a0d',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '03ab26e2-257a-40b4-99b3-c1d371672a0d',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '882619de-ab48-4ca4-926f-8cd740cd1d09',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '882619de-ab48-4ca4-926f-8cd740cd1d09',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '1d915a76-e248-40a1-8684-fcea2d9deee5',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '1d915a76-e248-40a1-8684-fcea2d9deee5',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '0f73ea90-bd30-491a-9323-6dd05d1ec996',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '0f73ea90-bd30-491a-9323-6dd05d1ec996',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '610b050e-baff-4a5c-8839-08b0483d2830',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '610b050e-baff-4a5c-8839-08b0483d2830',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: 'f123e252-1e3f-4bf2-8f9a-0df9ae31dcbc',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: 'f123e252-1e3f-4bf2-8f9a-0df9ae31dcbc',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Server shutting down...
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: 'c4597025-924d-414b-b4ed-2f4a1a3b7250',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: 'c4597025-924d-414b-b4ed-2f4a1a3b7250',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Server shutting down...
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '1247d00d-13b8-42a9-8c2e-eb45e78a4050',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '1247d00d-13b8-42a9-8c2e-eb45e78a4050',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Server shutting down...
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '0caa9547-a412-483b-bbff-bfb7cb8a7a4b',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '0caa9547-a412-483b-bbff-bfb7cb8a7a4b',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Server shutting down...
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '845ccdc3-1c08-44f2-9ec0-9cfd8be5791a',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '845ccdc3-1c08-44f2-9ec0-9cfd8be5791a',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Server shutting down...
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '704ddb74-c61f-4a46-9a13-8b9e1f2868aa',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '704ddb74-c61f-4a46-9a13-8b9e1f2868aa',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Server shutting down...
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '5b6f18fa-315c-4816-9514-b4dfa0c4c4e7',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '5b6f18fa-315c-4816-9514-b4dfa0c4c4e7',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Server shutting down...
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Server shutting down...
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: 'f73f34e0-20ff-4eaf-a1db-ad63323baba0',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: 'f73f34e0-20ff-4eaf-a1db-ad63323baba0',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+ yourself!
+Server shutting down...
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: 'dee36812-87d9-4de4-ad3c-cf885e999c53',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: 'dee36812-87d9-4de4-ad3c-cf885e999c53',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+ yourself!
+Server shutting down...
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '164a85c3-1997-49f3-a225-cc4390162623',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '164a85c3-1997-49f3-a225-cc4390162623',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+Server shutting down...
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '73f7d4b1-54df-45b9-8a93-d36f8c629a12',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '73f7d4b1-54df-45b9-8a93-d36f8c629a12',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+Server shutting down...
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '7695b9a3-7a67-4e76-a3ad-894dac630de7',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '7695b9a3-7a67-4e76-a3ad-894dac630de7',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+Server shutting down...
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: 'c27053cb-68c6-41c9-bff7-0f836fea388e',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: 'c27053cb-68c6-41c9-bff7-0f836fea388e',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+ yourself!
+Server shutting down...
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '026e7df8-3881-4795-9f06-516bd3f631e2',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '026e7df8-3881-4795-9f06-516bd3f631e2',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+ yourself!
+Server shutting down...
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: '890db63e-4ec0-4fec-96eb-82b494e41184',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: '890db63e-4ec0-4fec-96eb-82b494e41184',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+ yourself!
+Server shutting down...
+Environement 5001
+5001
+No port variable vonfigured ! 5001
+Server on port  5001
+Function started!
+Yes file exist!
+PrivateKeyObject { Symbol(kKeyType): 'private' } PublicKeyObject { Symbol(kKeyType): 'public' }
+Yes, there is key in the dir!
+USER {
+  name: 'alice',
+  id: 'e3d7d4d7-f26f-4228-a942-2ded535a4253',
+  path_privateKey: './privateKey.pem',
+  path_publicKey: './publicKey.pem',
+  user: {
+    name: 'alice',
+    id: 'e3d7d4d7-f26f-4228-a942-2ded535a4253',
+    address: '5000',
+    path_publicKey: './privateKey.pem',
+    path_privateKey: './privateKey.pem',
+    path_to_json: './user.json'
+  },
+  privateKey: PrivateKeyObject { Symbol(kKeyType): 'private' },
+  publicKey: PublicKeyObject { Symbol(kKeyType): 'public' }
+}
+Server shutting down...

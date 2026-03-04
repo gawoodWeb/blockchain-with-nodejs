@@ -3,10 +3,7 @@ const app = expres();
 const fs = require("fs")
 const fsp = require("fs/promises")
 
-let SESSIONID = null
-let port = process.env.PORT;
-console.log("Environement", port)
-
+let port =  null // process.env.PORT;
 let username = null
 
 let USER = require("./user.js")
@@ -15,9 +12,9 @@ app.use(expres.urlencoded({ extended: true }));
 
 
 
-/*let add = fs.readFileSync("pubAdd.txt",{ encoding: "utf8" });
+let add = fs.readFileSync("pubAdd.txt",{ encoding: "utf8" });
 add = add.toString().trim();
-console.log(  process.env.PORT);*/
+console.log(  process.env.PORT);
 
 
 const callNet = async () => {
@@ -134,7 +131,7 @@ async function BRODCAST (address, transaction) {
     });
 
     if (resp.ok !== true) {
-      console.log("Sorry server not responding!")
+      console.log("Sorry")
       return {msg: "Server error", ok: false};
     }
 
@@ -192,18 +189,9 @@ async function SYNCRONYSE () {
 //clearTimeout(timerGetNet)
 
 
-
-function LOADUSER(){
-  console.log("Function started!")
-  let name = process.env.USERNAME;
-  let users = new USER(name);
-  users.load();
-  console.log(users);
-  return users;
-}
-
-
-
+let users = new USER("peter");
+console.log(users)
+users.load()
 
 function ADD_NEW_ADDRESS (add,port){
   listAdd = [...new Set([...listAdd, add])]
@@ -220,9 +208,8 @@ async function SEND (transaction, to){
 
   try {
     for(const add of newList){
-      if(add === port ) return false;
+      if(add === port ) return false
 
-      console.log("Broadcasted", transaction)
       let resp = await BRODCAST(add, transaction);
 
       if(resp.ok){
@@ -240,6 +227,7 @@ async function SEND (transaction, to){
 }
 
 
+//app.use()
 console.log(port)
 
 
@@ -256,8 +244,7 @@ console.log(port)
 
 app.get("/", (req, res)=> {
 
-  /*
-   * let addressList = fs.readFileSync("add" + port + ".txt", "utf8")
+  let addressList = fs.readFileSync("add" + port + ".txt", "utf8")
 	addressList = addressList
     .split("\n")
     .filter(i=>i.trim() !== "");
@@ -265,8 +252,6 @@ app.get("/", (req, res)=> {
   
 	res.send(JSON.stringify(addressList));
   // callNet(); 
-// */
-  res.status(200).send("Welcome")
 })
 
 
@@ -289,62 +274,40 @@ app.post("/sync",(req, res)=>{
 
 
 
-function AUTH (req, res, next){
-  let sessionFromClient = req.headers.authorization;
-  if(!sessionFromClient) {
-    console.log("You need to provide a token!");
-    res.status(401).json({ ok: true , msg: "No token provided!" });
-  }
-  if(SESSIONID === sessionFromClient){
-    console.log("Verified go go goooo!")
-    next()
-  }else{
-    console.log(" yourself!");
-    res.status(401).json({ok: false, msg: "No token provided!" });
-  }
-}
-
-
 app.post("/auth",(req, res)=>{
-  let {username: name, password } = req.body;
-  let {username } = LOADUSER();
-  
-  if( username && name  === username ){
-    console.log("Yes is her!");
+
+  let {name} = req.body;
+  if(username && name === username){
+    
+
   }
+  let user = new USER(name);
+  if(user.auth()){
 
-  SESSIONID = crypto.randomUUID();
-
-  res.status(500).json({msg: "You are auth", ok: true, id: SESSIONID});
-
+  }
 })
 
-
 app.post("/msg", async (req,res)=>{
-  let user = LOADUSER()
-  let response = user.createTransaction(req.body);
-  console.log("CREATED TRANSACTION ", response)
+  let response = users.createTransaction(req.body);
+  console.log(response)
   if(response.ok){
     let transaction = response.transaction;
-    console.log("Sending...", transaction)
-    let prs = await SEND(transaction, transaction.to )
+    let prs = await SEND(transaction,transaction.to )
     if(prs.ok){  
       res.send(prs.msg);
     }
   }else {
-    console.log("TRANSAC NOT CREATE",response.msg)
+    console.log(response.msg)
     res.send(response.msg)
   }
 })
 
 
 
-app.post("/new",   (req, res)=>{
-  let user = LOADUSER()
+app.post("/new", (req, res)=>{
   let {transaction}  = req.body;
-  console.log("&7777777", transaction)
-  user.validateTransaction(transaction);
-  user.pushPool();
+  users.validateTransaction(transaction);
+  users.pushToPool();
   console.log("receive ", req.body);
   res.send({ msg: "data receive!"})
 })
@@ -356,16 +319,8 @@ app.use((err, req, res, next) => {
 });
 
 
-
-
-
-console.log("No port variable vonfigured !", port)
+console.log("Is port", port)
 if(!port) return true
-
-process.on("SIGTERM", () => {
-  console.log("Server shutting down...");
-  process.exit(0);
-});
 
 app.listen(port, ()=>{
 	console.log("Server on port ", port)
