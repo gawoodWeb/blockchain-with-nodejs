@@ -21,5 +21,8 @@ net/*/*.log
 
 /net
 
+/blockchain 
+
+*.rdb
 
 

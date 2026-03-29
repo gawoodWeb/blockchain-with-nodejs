@@ -1,0 +1,640 @@
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+/data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:287
+  let {username as name, password } = req.body;
+                ^^
+
+SyntaxError: Unexpected identifier 'as'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+
+Node.js v24.13.0
+Error: ENOENT: no such file or directory, open 'add5001.txt'
+    at Object.readFileSync (node:fs:439:20)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:255:24
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:117:3)
+    at handle (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:295:15
+    at processParams (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:582:12)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:291:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'add5001.txt'
+}
+Error: ENOENT: no such file or directory, open 'add5001.txt'
+    at Object.readFileSync (node:fs:439:20)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:255:24
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:117:3)
+    at handle (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:295:15
+    at processParams (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:582:12)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:291:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'add5001.txt'
+}
+Error: ENOENT: no such file or directory, open 'add5001.txt'
+    at Object.readFileSync (node:fs:439:20)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:255:24
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:117:3)
+    at handle (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:295:15
+    at processParams (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:582:12)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:291:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'add5001.txt'
+}
+Error: ENOENT: no such file or directory, open 'add5001.txt'
+    at Object.readFileSync (node:fs:439:20)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:256:24
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:117:3)
+    at handle (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:295:15
+    at processParams (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:582:12)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:291:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'add5001.txt'
+}
+Error: ENOENT: no such file or directory, open 'add5001.txt'
+    at Object.readFileSync (node:fs:439:20)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:256:24
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:117:3)
+    at handle (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:295:15
+    at processParams (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:582:12)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:291:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'add5001.txt'
+}
+Error: ENOENT: no such file or directory, open 'add5001.txt'
+    at Object.readFileSync (node:fs:439:20)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:256:24
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:117:3)
+    at handle (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:295:15
+    at processParams (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:582:12)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:291:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'add5001.txt'
+}
+Error: ENOENT: no such file or directory, open 'add5001.txt'
+    at Object.readFileSync (node:fs:439:20)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:256:24
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:117:3)
+    at handle (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:295:15
+    at processParams (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:582:12)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:291:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'add5001.txt'
+}
+Error: ENOENT: no such file or directory, open 'add5001.txt'
+    at Object.readFileSync (node:fs:439:20)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:256:24
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:117:3)
+    at handle (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:295:15
+    at processParams (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:582:12)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:291:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'add5001.txt'
+}
+Error: ENOENT: no such file or directory, open 'add5001.txt'
+    at Object.readFileSync (node:fs:439:20)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:256:24
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:117:3)
+    at handle (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:295:15
+    at processParams (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:582:12)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:291:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'add5001.txt'
+}
+Error: ENOENT: no such file or directory, open 'add5001.txt'
+    at Object.readFileSync (node:fs:439:20)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:256:24
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:117:3)
+    at handle (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:295:15
+    at processParams (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:582:12)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:291:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'add5001.txt'
+}
+Error: ENOENT: no such file or directory, open 'add5001.txt'
+    at Object.readFileSync (node:fs:439:20)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:256:24
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:117:3)
+    at handle (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:295:15
+    at processParams (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:582:12)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:291:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'add5001.txt'
+}
+Error: ENOENT: no such file or directory, open 'add5001.txt'
+    at Object.readFileSync (node:fs:439:20)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/net/alice/server.js:256:24
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/route.js:117:3)
+    at handle (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/lib/layer.js:152:17)
+    at /data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:295:15
+    at processParams (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:582:12)
+    at next (/data/data/com.termux/files/home/lab/blockchain-exo/node_modules/express/node_modules/router/index.js:291:5) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'add5001.txt'
+}
