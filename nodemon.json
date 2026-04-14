@@ -1,0 +1,28 @@
+{
+  "watch": [
+    "./interface.js",
+    "./transaction.js",
+    "./server.js",
+    "./user.js",
+    "./auth.js",
+
+
+    "./class/*",
+    "./peers/*",
+    "./core/*",
+    "./routes/*",
+    "./network/*"
+  ],
+  
+  "ignore": [
+    "peers/*",
+    "store/*",
+    "*.log",
+    "blockchain/*",
+  
+    "dump.rdb"
+  ],
+  "ext": "js,json",
+  "verbose": true,
+  "delay": 1000
+}

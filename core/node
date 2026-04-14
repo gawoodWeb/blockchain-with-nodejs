@@ -1,0 +1,53 @@
+
+
+  async createTransaction (transaction) {
+    /*
+    let tr = new TRANSACTION({
+      privateKey  : this.privateKey,
+      publicKey   : this.publicKey
+    });
+
+    let transaction_data = tr.load(transaction)
+    let isValid = tr.validate();
+
+    if(isValid.ok) {
+      await this.pool.InsertTransaction(transaction_data)
+      console.log("added to memepool");
+      return {...isValid, data: transaction_data}
+    };
+
+    return {...isValid};
+    */
+  }
+
+
+
+  validateTransaction(data){
+    /*
+    let transaction = data.data;
+    let tr                = new TRANSACTION("verify");
+    let transaction_data  = tr.load(transaction);
+    let isValid           = tr.validate();
+    //console.log( data, "Lets validate signature of this transaction!", transaction)
+
+    if(isValid.ok) {
+      console.log("My pK ",this.publicKey);
+      let verif = tr.verify();
+      if(verif.ok){
+        console.log(verif.msg, "to memepool");
+
+        this.pool.InsertTransaction(transaction);
+
+      }else{  
+        console.log(verif.msg)
+      }
+
+
+      return {...isValid, data: transaction_data};
+    };
+    
+    return {...isValid};
+    */
+  }
+
+
